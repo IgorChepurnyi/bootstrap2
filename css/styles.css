@@ -69,8 +69,8 @@ h2{
     margin-left: 10px;
 }
 .navbar-expand-lg .navbar-nav .nav-link {
-    padding-right: 5.675rem;
-    padding-left: 5rem;
+    padding-right:2.07em;
+    padding-left: 2.05em;
 }
 .navbar-nav a:hover{
     display: block;
